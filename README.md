@@ -1,3 +1,3 @@
 
 # Kado
--Flower code from: https://github.com/Vocadou/Vocadou.github.io.git
+-Flower code from: https://Vocadou/Vocadou.github.io.git
